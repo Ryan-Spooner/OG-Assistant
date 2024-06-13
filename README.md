@@ -1,5 +1,5 @@
 # OG Assistant
-...An **O**BS and **G**PT powered AI assistant.
+...An OBS and GPT powered AI assistant.
 
 ## Summary
 OGA uses the OBS WebSocket API to record system audio. It leverages OpenAI's GPT-4o API to perform content analysis. It is cross-platform, supporting Mac, Windows, and Linux, and runs in a docker container exposed via [Twingate Connectors](https://twingate.com/docs/connectors) to the end user.
@@ -7,7 +7,7 @@ OGA uses the OBS WebSocket API to record system audio. It leverages OpenAI's GPT
 ### Why OGA
 I attend a lot of meetings. My coworkers attend a lot of meetings. The need for a full-featured AI assistant to lessen the cognitive strain is almost painful. While a host of solutions exist, they are expensive. The ***free*** services hide their best tools in a premium-tier sub.
 
-I want a cheap and performant assistant to share with others at zero cost. I want it to seamlessly integrate with my workflow. To get what you want, its best to do it yourself. So, this project is a labor of love and pragmatism: Squash the noise and boost the signal.
+I want a cheap and performant assistant to share with others at zero cost to them. I want it to seamlessly integrate with my workflow. To get what you want, its best to do it yourself. This project is a labor of love and pragmatism, to squash the noise and boost the signal.
 
 ## Installation
 
